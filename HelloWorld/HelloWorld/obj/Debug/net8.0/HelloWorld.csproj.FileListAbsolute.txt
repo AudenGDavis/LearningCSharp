@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/HelloWorld/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

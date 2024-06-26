@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/bin/Debug/net8.0/MyFirstProject
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/bin/Debug/net8.0/MyFirstProject.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/bin/Debug/net8.0/MyFirstProject.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/bin/Debug/net8.0/MyFirstProject.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/bin/Debug/net8.0/MyFirstProject.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/refint/MyFirstProject.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/MyFirstProject.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ProjectSetup/MyFirstProject/obj/Debug/net8.0/ref/MyFirstProject.dll

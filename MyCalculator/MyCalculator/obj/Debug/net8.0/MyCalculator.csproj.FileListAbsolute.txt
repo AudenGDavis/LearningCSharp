@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/bin/Debug/net8.0/MyCalculator
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/bin/Debug/net8.0/MyCalculator.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/bin/Debug/net8.0/MyCalculator.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/bin/Debug/net8.0/MyCalculator.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/bin/Debug/net8.0/MyCalculator.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/refint/MyCalculator.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/MyCalculator.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/MyCalculator/MyCalculator/obj/Debug/net8.0/ref/MyCalculator.dll
