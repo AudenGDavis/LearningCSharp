@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/bin/Debug/net8.0/ImplicitConversion
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/bin/Debug/net8.0/ImplicitConversion.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/bin/Debug/net8.0/ImplicitConversion.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/bin/Debug/net8.0/ImplicitConversion.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/bin/Debug/net8.0/ImplicitConversion.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/refint/ImplicitConversion.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ImplicitConversion.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ImplicitConversion/ImplicitConversion/obj/Debug/net8.0/ref/ImplicitConversion.dll

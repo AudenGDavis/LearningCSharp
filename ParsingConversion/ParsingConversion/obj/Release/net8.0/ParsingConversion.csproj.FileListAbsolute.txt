@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/ParsingConversion
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/ParsingConversion.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/ParsingConversion.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/ParsingConversion.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/ParsingConversion.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/refint/ParsingConversion.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ParsingConversion.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/obj/Release/net8.0/ref/ParsingConversion.dll

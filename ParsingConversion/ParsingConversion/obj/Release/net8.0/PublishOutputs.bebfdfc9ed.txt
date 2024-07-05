@@ -1,0 +1,5 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/publish/ParsingConversion
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/publish/ParsingConversion.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/publish/ParsingConversion.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/publish/ParsingConversion.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/ParsingConversion/ParsingConversion/bin/Release/net8.0/publish/ParsingConversion.pdb

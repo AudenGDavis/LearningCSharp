@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/bin/Debug/net8.0/StringFormatting
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/bin/Debug/net8.0/StringFormatting.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/bin/Debug/net8.0/StringFormatting.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/bin/Debug/net8.0/StringFormatting.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/bin/Debug/net8.0/StringFormatting.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/refint/StringFormatting.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/StringFormatting.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/StringFormatting/StringFormatting/obj/Debug/net8.0/ref/StringFormatting.dll

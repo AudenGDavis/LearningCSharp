@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/bin/Debug/net8.0/SwitchStatement
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/bin/Debug/net8.0/SwitchStatement.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/bin/Debug/net8.0/SwitchStatement.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/bin/Debug/net8.0/SwitchStatement.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/bin/Debug/net8.0/SwitchStatement.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/refint/SwitchStatement.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/SwitchStatement.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/SwitchStatement/SwitchStatement/obj/Debug/net8.0/ref/SwitchStatement.dll
