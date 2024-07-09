@@ -1,0 +1,15 @@
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.deps.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.runtimeconfig.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfoInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfo.cs
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.csproj.CoreCompileInputs.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.sourcelink.json
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/refint/QuizApp.dll
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.pdb
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.genruntimeconfig.cache
+/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/Debug/net8.0/ref/QuizApp.dll
