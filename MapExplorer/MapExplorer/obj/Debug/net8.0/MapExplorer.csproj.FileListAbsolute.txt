@@ -1,0 +1,15 @@
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.AssemblyInfoInputs.cache
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.AssemblyInfo.cs
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.csproj.CoreCompileInputs.cache
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.sourcelink.json
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\bin\Debug\net8.0\MapExplorer.exe
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\bin\Debug\net8.0\MapExplorer.deps.json
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\bin\Debug\net8.0\MapExplorer.runtimeconfig.json
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\bin\Debug\net8.0\MapExplorer.dll
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\bin\Debug\net8.0\MapExplorer.pdb
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.dll
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\refint\MapExplorer.dll
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.pdb
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\MapExplorer.genruntimeconfig.cache
+C:\Users\AudenDavis\Documents\GitHub\LearningCSharp\MapExplorer\MapExplorer\obj\Debug\net8.0\ref\MapExplorer.dll

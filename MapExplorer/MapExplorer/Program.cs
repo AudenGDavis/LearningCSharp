@@ -4,10 +4,13 @@ namespace MapExplorer
 {
     public class MainClass
     {
-        String[,] map = new string[10,10];
+        
         public static void Main(string[] args)
         {
-            System.Console.WriteLine(map);
+            String[,] map = new string[10,10];
+
+            string fileContent = File.ReadAllText("./map.txt");
+            System.Console.WriteLine(fileContent);
         }
     }
 }

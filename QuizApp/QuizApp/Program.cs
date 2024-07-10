@@ -14,7 +14,7 @@ namespace QuizApp
             questions.Add("5 + 2 * 4 = ",13);
             questions.Add("6 / 3 = ",2);
             int score = 0;
-
+            
             foreach(KeyValuePair<String, int> question in questions)
             {
                 System.Console.Write(question.Key);
