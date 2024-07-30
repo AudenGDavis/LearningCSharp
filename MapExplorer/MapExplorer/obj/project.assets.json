@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AudenDavis\\.nuget\\packages\\": {}
+    "/Users/audendavis/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\MapExplorer\\MapExplorer\\MapExplorer.csproj",
+      "projectUniqueName": "/Users/audendavis/Documents/GitHub/LearningCSharp/MapExplorer/MapExplorer/MapExplorer.csproj",
       "projectName": "MapExplorer",
-      "projectPath": "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\MapExplorer\\MapExplorer\\MapExplorer.csproj",
-      "packagesPath": "C:\\Users\\AudenDavis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\MapExplorer\\MapExplorer\\obj\\",
+      "projectPath": "/Users/audendavis/Documents/GitHub/LearningCSharp/MapExplorer/MapExplorer/MapExplorer.csproj",
+      "packagesPath": "/Users/audendavis/.nuget/packages/",
+      "outputPath": "/Users/audendavis/Documents/GitHub/LearningCSharp/MapExplorer/MapExplorer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AudenDavis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/audendavis/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
