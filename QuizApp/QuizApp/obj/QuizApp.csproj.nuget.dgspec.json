@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\QuizApp\\QuizApp\\QuizApp.csproj": {}
+    "/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/QuizApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\QuizApp\\QuizApp\\QuizApp.csproj": {
+    "/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/QuizApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\QuizApp\\QuizApp\\QuizApp.csproj",
+        "projectUniqueName": "/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/QuizApp.csproj",
         "projectName": "QuizApp",
-        "projectPath": "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\QuizApp\\QuizApp\\QuizApp.csproj",
-        "packagesPath": "C:\\Users\\AudenDavis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AudenDavis\\Documents\\GitHub\\LearningCSharp\\QuizApp\\QuizApp\\obj\\",
+        "projectPath": "/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/QuizApp.csproj",
+        "packagesPath": "/Users/audendavis/.nuget/packages/",
+        "outputPath": "/Users/audendavis/Documents/GitHub/LearningCSharp/QuizApp/QuizApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AudenDavis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/audendavis/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
