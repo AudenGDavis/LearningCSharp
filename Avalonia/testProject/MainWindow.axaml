@@ -1,0 +1,80 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="testProject.MainWindow"
+        Title="testProject">
+    
+    <!-- <Button Content="Click Me!" Width="100" Height="30" Click="OnButtonClick"/> -->
+    <DockPanel>
+        <Button Content="Click Me!" Width="100" Height="30" Click="OnButtonClick" DockPanel.Dock="Top" />
+    </DockPanel>
+
+    <!-- <StackPanel Orientation="Vertical">
+        <TextBlock Text="Item 1" />
+        <TextBlock Text="Item 2" />
+        <Button Content="Click Me" />
+    </StackPanel> -->
+<!-- 
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Label" Grid.Row="0" Grid.Column="0" />
+        <TextBox Grid.Row="0" Grid.Column="1" />
+        <Button Content="Submit" Grid.Row="1" Grid.ColumnSpan="2" />
+    </Grid> -->
+
+    <!-- <Canvas>
+        <TextBlock Text="Fixed Position" Canvas.Left="50" Canvas.Top="20" />
+        <Button Content="Click Me" Canvas.Left="100" Canvas.Top="50" />
+    </Canvas> -->
+
+    <!-- <WrapPanel>
+        <Button Content="Button 1" Width="100" />
+        <Button Content="Button 2" Width="100" />
+        <Button Content="Button 3" Width="100" />
+    </WrapPanel> -->
+
+    <!-- <DockPanel>
+        <Button Content="Top Dock" DockPanel.Dock="Top" />
+        <Button Content="Left Dock" DockPanel.Dock="Left" />
+        <Button Content="Right Dock" DockPanel.Dock="Right" />
+        <Button Content="Bottom Dock" DockPanel.Dock="Bottom" />
+        <TextBlock Text="Center Content" />
+    </DockPanel> -->
+
+    <!-- <UniformGrid Rows="2" Columns="2">
+         <WrapPanel>
+            <Button Content="Button 1" Width="100" />
+            <Button Content="Button 2" Width="100" />
+            <Button Content="Button 3" Width="100" />
+        </WrapPanel>
+         <WrapPanel>
+            <Button Content="Button 1" Width="100" />
+            <Button Content="Button 2" Width="100" />
+            <Button Content="Button 3" Width="100" />
+        </WrapPanel>
+         <WrapPanel>
+            <Button Content="Button 1" Width="100" />
+            <Button Content="Button 2" Width="100" />
+            <Button Content="Button 3" Width="100" />
+        </WrapPanel>
+         <WrapPanel>
+            <Button Content="Button 1" Width="100" />
+            <Button Content="Button 2" Width="100" />
+            <Button Content="Button 3" Width="100" />
+        </WrapPanel>
+
+    </UniformGrid> -->
+
+
+
+</Window>

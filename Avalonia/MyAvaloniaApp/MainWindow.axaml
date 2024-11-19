@@ -1,0 +1,33 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        x:Class="MyAvaloniaApp.MainWindow"
+        mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="200">
+
+        <!-- <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Hello, World!" FontSize="24" HorizontalAlignment="Center"/>
+            <Button Content="Click Me" Width="100" Height="100" HorizontalAlignment="Center"/>
+        </StackPanel> -->
+
+
+        <!-- <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="First Item" />
+            <TextBlock Text="Second Item" />
+        </StackPanel> -->
+
+        <Grid>
+            <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+    
+        <TextBlock Text="Top Left" Grid.Row="0" Grid.Column="0" />
+        <TextBlock Text="Bottom Right" Grid.Row="1" Grid.Column="1" />
+        <Button Content="Click Me" Width="100" Height="100" Grid.Row="0" Grid.Column="1" />
+</Grid>
+</Window>
